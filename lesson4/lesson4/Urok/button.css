@@ -1,0 +1,19 @@
+a{
+	display: block;
+	width: 200px;
+	height: 50px;
+	background-image: url(buttons.png);
+	background-repeat: no-repeat;
+	background-position: top left;
+	text-align: center;
+	line-height: 50px;
+	text-decoration: none;
+	color: white;
+
+}
+a:hover{
+	background-position: top center;
+}
+a:active{
+	background-position: top right;
+}

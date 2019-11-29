@@ -1,0 +1,73 @@
+a{
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	background-color: yellow;
+	display: block;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	border: 1px solid grey;
+	background-image: url(global.png);
+	background-repeat: repeat-y;}
+span{
+	display: none;
+
+
+
+	}
+
+
+		
+	}
+	a:hover{
+		background-color: green;
+		background-image: url(lock.png);
+		
+		
+	
+	
+
+	}
+	a:hover span{
+		display: inline;
+		background-color: purple;
+
+
+
+	}
+
+
+	/*background-repeat: no-repeat;
+	
+
+
+}
+
+
+/*a:link{
+	background-color: black;
+
+	}
+
+
+a:visited{
+	background-color: blue;
+
+
+
+}
+
+		background-color: #45AA62;
+		color: red;
+		/*transition: 10s-затемнение при наводке 
+
+}
+
+a:active{
+	background-color: red;
+
+
+
+}
+*/
